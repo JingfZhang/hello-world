@@ -1,2 +1,1 @@
-Hello git
-first git
+Hello
